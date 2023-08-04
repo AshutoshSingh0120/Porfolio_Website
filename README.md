@@ -1,2 +1,4 @@
-# Portfolio_Website
-I made this Portfolio website using HTML,CSS,JAVASCRIPT.
+# Portfolio Website
+I made this Portfolio website using HTML,CSS, Javascript.
+
+
